@@ -4,7 +4,7 @@
   "description": "frontend tasks solutions",
   "main": "dist/index.js",
   "scripts": {
-    "test": "ts-node src/event-loop-questions.ts"
+    "test": "ts-node src/fetch-with-retries.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
